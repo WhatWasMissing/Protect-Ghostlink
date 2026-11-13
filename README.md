@@ -1,8 +1,7 @@
-
+Built from the blackrock source, ghostlink wouldn't exist without hellomike's work, ive merely combined this with my own features.
 
 Project Ghostlink is a real-time memory (RTM) tool for PS3, via [PS3MAPI](https://github.com/aldostools/webMAN-MOD). 
 
-Built from the Blackrock source.
 
 ## Requirements
 
@@ -32,11 +31,10 @@ AI Disclaimer: Some AI was used in the creation of this project, mostly formatti
 
 ## Credits
 
-- [webMAN MOD](https://github.com/aldostools/webMAN-MOD) by aldostools
-- PS3MAPI
+- hellomike05 - built off the Blackrock source
 - **[KiPOD](https://github.com/kipod8)** - l features used in this tool
 - **[Soul](https://github.com/PappaSoul)** -  features used in this tool
-- hellomike05 - built off the Blackrock source
+
 
 ## Known issues
 -See known issues page
