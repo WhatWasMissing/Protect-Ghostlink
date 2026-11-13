@@ -31,7 +31,7 @@ AI Disclaimer: Some AI was used in the creation of this project, mostly formatti
 
 ## Credits
 
-- hellomike05 - built off the Blackrock source
+- hellomike05 - built off the Blackrock source 
 - **[KiPOD](https://github.com/kipod8)** - l features used in this tool
 - **[Soul](https://github.com/PappaSoul)** -  features used in this tool
 
